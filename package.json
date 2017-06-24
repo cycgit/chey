@@ -1,0 +1,19 @@
+{
+  "name": "chey",
+  "version": "0.0.1",
+  "description": "类似afred的小工具",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/cycgit/chey",
+  "keywords": [
+    "Electron",
+    "afred"
+  ],
+  "author": "cyckoo",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
